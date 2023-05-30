@@ -6,7 +6,7 @@
 ## O repositório é organizado da seguinte forma:
 
 ### -*Exercícios*:Nesta pasta, encontro uma variedade de exercícios para resolver. Os exercícios estão em um arquivo, contendo instruções claras sobre o problema a ser resolvido.
-### -*Soluções*:Aqui, mantenho as soluções que desenvolvi para os exercícios. Cada solução é armazenada em seu próprio arquivo, e busco fornecer comentários explicativos sobre a abordagem utilizada.
+### -*Soluções*:Aqui, mantenho as soluções que desenvolvi para os exercícios. Cada solução é armazenada em seu próprio arquivo, e busco fornecer comentários explicativos sobre a abordagem utilizada.Como estou me especializando na linguagem Java , a soluções são nesta linguagem.
 ## Como Utilizar:
 ### 1- Caso queira explorar os exercícios e soluções deste repositório, basta clonar o repositório em sua máquina local:
 ### git clone https://github.com/scaglia-aylla/TreinandoLogica.git
