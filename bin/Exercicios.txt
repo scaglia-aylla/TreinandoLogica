@@ -1,2 +1,4 @@
 1- Escreva uma função para encontrar o número k-ésimo mais frequente em uma lista de números.
 2- Verifique se uma String contém apenas dígitos.
+3- Dada uma lista ordenada, verifique se ela lista está ordenada de forma crescente ou descrescente.
+4- Calcule a soma dos dígitos de uma string com diferentes caracteres.
